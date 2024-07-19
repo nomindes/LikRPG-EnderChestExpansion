@@ -1,7 +1,0 @@
-net\nomindev\GUIManager.class
-net\nomindev\EnderChestManager$ItemStackArrayAdapter.class
-net\nomindev\EnderChestManager.class
-net\nomindev\EnderChestListener.class
-net\nomindev\EnderChestManager$PlayerEnderChestData.class
-net\nomindev\EnderChestCommand.class
-net\nomindev\EnderChestExpansion.class
